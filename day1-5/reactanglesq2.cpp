@@ -7,6 +7,7 @@ signed main() {
     IOS;
 
     integer l1x, l1y, r1x, r1y, l2x, l2y, r2x, r2y;
+    cin>>l1x>>l1y>>r1x>>r1y>>l2x>>l2y>>r2x>>r2y;
 
     if (r1x >= l2x) {
         if (l1y >= r2y) {
